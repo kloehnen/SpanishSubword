@@ -1,0 +1,503 @@
+A	sin	True
+An	sin	True
+Anti	en contra	True
+Auto	uno mismo	True
+Bacter	bacteria	True
+Bi	dos	True
+Bio	vida	True
+Blefar	párpado	True
+Bleno	mucosidad	True
+Bradi	lento	True
+Bronco	bronquios	True
+Caco	malo	True
+Cancer	tumor	True
+Cefal	cabeza	True
+céfalo	cabeza	False
+Cervic	cuello	True
+cida	matar	False
+Cine	movimiento	True
+Cist	vejiga	True
+Cisto	vejiga	True
+cognosia	saber	False
+Cole	bilis	True
+Colo	colon	True
+Colpo	vagina	True
+Condr	cartílago	True
+Copro	excremento	True
+Craneo	cráneo	True
+Derm	piel	True
+Des	privar	True
+Diplo	doble	True
+Dis	desorden	True
+Dorso	espalda	True
+Duoden	duodeno	True
+Ecto	fuera	True
+ectomía	extirpación	False
+Electro	elictricidad	True
+Elitro	vagina	True
+emesis	vomito	False
+emia	sangre	False
+Endo	dentro	True
+Entero	intestino	True
+Epi	sobre, encima	True
+Eritro	rojo	True
+Esclero	endurecer	True
+Esfigmo	pulso	True
+Esofag	esófago	True
+Esplacno	vísceras	True
+Esplen	bazo	True
+Espondilo	vértebra	True
+Estafil	racimo	True
+Estafilo	racimo	True
+Esteato	grasa	True
+Esten	estrecho	True
+Esteno	estrecho	True
+estesia	percibir	False
+Esteto	pecho	True
+Estet	pecho	True
+Eu	bien, verdadero	True
+Ex	fuera	True
+Extra	fuera	True
+Faco	lente	True
+fagia	comer	False
+Faring	faringe	True
+Fármaco	medicación	True
+filo	amigo	False
+filia	amigo	False
+Fito	planta	True
+fito	planta	False
+Flebo	vena	True
+fobia	enemigo	False
+fonia	sonido	False
+fono	sonido	False
+Fono	voz	True
+forme	forma	False
+Foto	luz	True
+Freno	diafragma	True
+Fungi	hongo	True
+Galacto	leche	True
+Gastro	estómago	True
+Genu	rodilla	True
+génesis	origen	False
+Ger	anciano, vejez	True
+Gero	anciano, vejez	True
+Gineco	mujer	True
+Gingiv	encía	True
+Gluco	dulce	True
+Gnat	mandíbula	True
+Gnat(o)	mandíbula	True
+grafía	escritura	False
+grama	gráfico	False
+Haplo	sencillo	True
+Hemato	sangre	True
+Hemi	mitad	True
+Hepat	(hígado	True
+Hepato	hígado	True
+Hetereo	desigual	True
+Hetero	desigual	True
+Hexa	seis	True
+Hialo	vidrio	True
+Hidro	sudor	True
+Higro	húmedo	True
+Hiper	superioridad	True
+Hipo	deficiencia	True
+Histero	útero	True
+Histo	tejido	True
+Homo	igual	True
+Icter	coloración	True
+Ictio	pez	True
+Idio	propia	True
+Inter	entre	True
+Intra	dentro	True
+Iso	igual	True
+Lact	leche	True
+Laring	laringe	True
+Leuco	blanco	True
+Lipo	grasa	True
+lisis	romper	False
+lítico	romper	False
+Lito	piedra	True
+logía	tratado	False
+logo	especialista	False
+Lumb	lomo	True
+Macro	grande	True
+Mega	grande	True
+Mening	meninges	True
+Mico	hongo	True
+Micro	pequeño	True
+Mielo	médula	True
+Miel	médula	True
+Mio	músculo	True
+Mono	uno	True
+Multi	mucho	True
+Nefro	riñón	True
+Nefr	riñón	True
+Neo	nuevo	True
+Neumo	aire	True
+Neuro	nervio	True
+Odonto	diente	True
+Oftalmo	ojo	True
+Oleo	aceite	True
+Oligo	poco	True
+oma	tumor	False
+Oo	huevo	True
+osis	afección	False
+Osteo	hueso	True
+Oto	oído	True
+Paqui	denso	True
+patía	enfermedad	False
+Pato	enfermedad	True
+Ped	pie	True
+Pedo	pie	True
+Penta	cinco	True
+Peri	alrededor	True
+Pielo	pelvis	True
+Pio	pus	True
+Piro	fuego	True
+plasia	malformación	False
+plastia	cirujía	False
+Pluri	varios	True
+pnea	respiración	False
+Podo	pie	True
+podo	pie	False
+Poiquilo	variado	True
+Poli	mucho	True
+Pos	detrás	True
+Pre	antes	True
+Psico	alma	True
+Radio	luz	True
+Retro	atrás	True
+Rino	nariz	True
+rrafia	sutura	False
+rragia	salida	False
+Salpingo	trompa	True
+scopia	ver	False
+Sero	suero	True
+Seudo	falso	True
+Sin	junto	True
+soma	cuerpo	False
+statico	quieto	False
+Sub	debajo	True
+Super	hiper	True
+Supra	encima	True
+Tanato	muerte	True
+Taqui	rápido	True
+taxia	tendencia	False
+Tele	a distancia	True
+Tendin	tendón	True
+terapia	tratamiento	False
+Terato	monstruo	True
+Termo	calor	True
+Tetra	cuatro	True
+Toco	parto	True
+tomía	corte	False
+Topo	lugar	True
+Torac	tórax	True
+Toxi	veneno	True
+Toxico	veneno	True
+Trans	a través	True
+Traque	tráquea	True
+Tri	tres	True
+Trico	cuello	True
+trofo	nutrición	False
+Trofo	nutrición	True
+Trombo	coágulo	True
+Uni	uno	True
+Uret	orina	True
+Uro	orina	True
+Xanto	amarillo	True
+Xeno	extraño	True
+Xero	seco	True
+Zoo	aanimal	True
+<http://www.gramaticas.net/2013/10/prefijos-y-sufijos-medicos.html>
+AN	Forma prefija que significa sin o no	True
+A	Forma prefija que significa sin o no	True
+AB	Forma prefija que significa separación	True
+ABDOMINAL	Forma prefija que significa o indica lo relativo al abdomen	True
+ADIPO	Forma prefija que significa grasa	True
+AMBI	Forma prefija que significa ambos	True
+AMO	Forma prefija que significa amoniaco	True
+ANQUILO	Forma prefija que significa adherencia, soldadura (ancilo)	True
+ANTE	Forma prefija que significa delante, en el tiempo o en el espacio	True
+ANTI	Forma prefija que significa contra	True
+APO	Forma prefija que significa origen, separación, remisión, conclusión	True
+BASI	Forma prefija que significa base	True
+BI	Forma prefija que significa dos	True
+BLASTO	Forma prefija que significa germen	True
+BLEN	Forma prefija que significa mucosidad	True
+BRANQUI	Forma prefija que significa corto	True
+BRAQUI	Forma prefija que significa corto	True
+CACO	Forma prefija que significa malo	True
+CARDIO	Forma prefija que significa corazón	True
+CÉFALO	Forma prefija que significa cabeza	True
+CISTO	Forma prefija que significa vejiga urinaria, quiste o saco	True
+CONTRA	Forma prefija que significa oposición	True
+COPRO	Forma prefija que significa excremento	True
+COSTO	Forma prefija que significa costilla	True
+CRIPTO	Forma prefija que significa escondido	True
+CUADRI	Forma prefija que significa cuatro	True
+DACRI	Forma prefija que significa lágrima	True
+DACRIO	Forma prefija que significa lágrima	True
+DÁCTILO	Forma prefija que significa dedo	True
+DENTO	Forma prefija que significa diente	True
+DERM	Forma prefija que significa piel	True
+DERMA	Forma prefija que significa piel	True
+DE	Forma prefija que significa privación o negación	True
+DEUTER	Forma prefija que significa segundo	True
+DERMATO	Forma prefija que significa piel	True
+DES	Forma prefija que significa privación o negación	True
+DEUTO	Forma prefija que significa segundo	True
+DINAMO	Forma prefija que significa fuerza	True
+DIPLO	Forma prefija que significa doble	True
+DIS	Forma prefija que significa desorden, mal estado, dificultad	True
+DÓLICO	Forma prefija que significa largo	True
+ECTO	Forma prefija que significa fuera	True
+ELECTRO	Forma prefija que significa electricidad	True
+ELITRO	Forma prefija que significa estuche, vaina, vagina	True
+ENCÉFALO	Forma prefija que significa cerebro	True
+ENTER	Forma prefija que significa intestino	True
+ENTRO	Forma prefija que significa dentro	True
+ENTERO	Forma prefija que significa intestino	True
+ENTO	Forma prefija que significa dentro	True
+EPI	Forma prefija que significa sobre, encima, después	True
+ERITRO	Forma prefija que significa de color rojo	True
+ESFIGMO	Forma prefija que significa pulso	True
+ESPLACNO	Forma prefija que significa víscera	True
+ESQUISTO	Forma prefija que significa hendido, separado	True
+ESQUIZO	Forma prefija que significa dividido	True
+ESTAFILO	Forma prefija que significa o indica relación con la úvula (campanilla o galillo)	True
+ESTAFIL	Forma prefija que significa o indica relación con la úvula (campanilla o galillo)	True
+ESTEATO	Forma prefija que significa grasa sólida, sebo	True
+ESTENO	Forma prefija que significa estrecho	True
+ESTERO	Forma prefija que significa sólido	True
+ESTETO	Forma prefija que significa pecho	True
+ESTILO	Forma prefija que significa punzón, que indica relación con la apófisis estiloides del temporal	True
+ESTOMATO	Forma prefija que significa boca	True
+EU	Forma prefija que significa bien, normal	True
+EX	Forma prefija que significa fuera, privación	True
+EXCITO	Forma prefija que significa excitante, de la parte señalada	True
+EXO	Forma prefija que significa fuera, exógena (causa)	True
+EXTRA	Forma prefija que significa más allá en adición, fuerza	True
+FACO	Forma prefija que indica de forma lenticular	True
+FAGO	Forma prefija que significa digerir	True
+FARINGO	Forma prefija que significa faringe	True
+FÁRMACO	Forma prefija que significa medicamento, droga	True
+FENO	Forma prefija que indica características	True
+FIBRO	Forma prefija que significa fibroso	True
+FILO	Forma prefija que significa rama	True
+FISIO	Forma prefija que significa funcionamiento	True
+FITO	Forma prefija que significa planta	True
+FLEB	Forma prefija que significa vena	True
+FLEBO	Forma prefija que significa vena	True
+FORO	Forma prefija que significa movimiento	True
+FOTO	Forma prefija que significa luz	True
+FREB	Forma prefija que significa sonido	True
+FREBO	Forma prefija que significa sonido	True
+GALACTO	Forma prefija que significa leche	True
+GALVANO	Forma prefija que está relacionada con la corriente eléctrica	True
+GASTRO	Forma prefija que significa estómago	True
+GLUCO	Forma prefija que significa dulce	True
+GONIO	Forma prefija que significa semilla, ángulo	True
+GONO	Forma prefija que significa semilla	True
+HELIO	Forma prefija que significa sol	True
+HEMA	Forma prefija que significa sangre	True
+HEMI	Forma prefija que significa semi o mitad	True
+HEMO	Forma prefija que significa sangre	True
+HEPTO	Forma prefija que significa siete	True
+HETERO	Forma prefija que significa desigual	True
+HEXA	Forma prefija que significa seis	True
+HIALO	Forma prefija que significa vidrio	True
+HIPER	Forma prefija que indica superioridad, exceso	True
+HIPNO	Forma prefija que significa sueño	True
+HIPO	Forma prefija que significa bajo, deficiencia, inferior	True
+HIPSI	Forma prefija que indica alto (arriba)	True
+HIPSO	Forma prefija que significa altura	True
+HISTER	Forma prefija que significa matriz, útero	True
+HISTO	Forma prefija que significa tejido	True
+HISTERO	Forma prefija que significa matriz, útero	True
+HISTIO	Forma prefija que significa tejido	True
+HOLO	Forma prefija que significa todo	True
+HOMEOTROMO	Forma prefija que significa semejante, igual	True
+ILEO	Forma prefija que significa relación con el íleon	True
+IMIDO	Forma prefija que indica la presencia de un grupo NH, unido en el primer caso (imido) a un radical ácido y en el segundo (imino) a uno no ácido	True
+IN	Forma prefija que indica dentro o negación	True
+INFRA	Forma prefija que significa debajo	True
+INO	Forma prefija que significa fibra	True
+INTER	Forma prefija que significa entre o en medio	True
+INTRA	Forma prefija que significa dentro de	True
+INTRO	Forma prefija que significa dentro de	True
+ISCO	Forma prefija que significa retener	True
+LACTO	Forma prefija que significa leche	True
+LAPAR	Forma prefija que significa abdomen	True
+LAPARO	Forma prefija que significa abdomen	True
+LARINGO	Forma prefija que significa laringe	True
+LEPTO	Forma prefija que significa pelado, delgado, fino	True
+LEUCO	Forma prefija que significa blanco	True
+LIREN	Forma prefija que significa bazo	True
+LIRENO	Forma prefija que significa bazo	True
+LIEN	Forma prefija que significa bazo	True
+LIENO	Forma prefija que significa bazo	True
+LIMO	Forma prefija que significa hambre	True
+LIO	Forma prefija que significa liso	True
+LIP	Forma prefija que significa grasa	True
+LIPO	Forma prefija que significa grasa	True
+LITO	Forma prefija que significa piedra	True
+MACRO	Forma prefija que significa grande	True
+MALACO	Forma prefija que significa blando	True
+MEGALO	Forma prefija que significa grande	True
+MEGA	Forma prefija que significa grande	True
+MELA	Forma prefija que significa negro	True
+MELANO	Forma prefija que significa negro	True
+MELI	Forma prefija que significa miel	True
+MELIA	Forma prefija que significa miembro	True
+MELO	Forma prefija que significa miembro	True
+MENINGO	Forma prefija que significa membrana	True
+MORBO	Forma prefija que significa enfermedad	True
+ONCO	Forma prefija que significa tumor o masa	True
+ONFALO	Forma prefija que significa ombligo	True
+ONICO	Forma prefija que significa uña	True
+OO	Forma prefija que significa huevo	True
+OPISTO	Forma prefija que significa por detrás	True
+OPO	Forma prefija que significa jugo	True
+OPTO	Forma prefija que significa visible	True
+ORQUIO	Forma prefija que significa testículo	True
+ORRO	Forma prefija que significa suero	True
+ORTO	Forma prefija que significa recta (de posición normal)	True
+OSFRESIO	Forma prefija con la significación de relación con los olores	True
+OSMO	Forma prefija que significa olor	True
+OSQUEO	Forma prefija que significa escroto	True
+OSTEO	Forma prefija que significa hueso	True
+OTO	Forma prefija que significa oído	True
+OXI	Forma prefija que significa agudo, agrio, ácido, rápido	True
+PALÍN	Forma prefija que significa de nuevo, otra vez	True
+PARA	Forma prefija que significa cerca, de parte de, junto a	True
+PATO	Forma prefija que significa enfermedad	True
+PEDO	Forma prefija que significa niño	True
+PELICO	Forma prefija que significa escudilla (pelvis)	True
+PERI	Forma prefija que significa alrededor	True
+PICO	Forma prefija que significa la billonésima parte	True
+PICRO	Forma prefija que significa amargo	True
+PIO	Forma prefija que significa pus	True
+PIRETO	Forma prefija que significa fiebre	True
+PLATI	Forma prefija que significa ancho	True
+PLURI	Forma prefija que significa más, varios, mucho	True
+PODO	Forma prefija que significa pie	True
+POLI	Forma prefija que significa mucho	True
+POST	Forma prefija que significa después, detrás	True
+PSICO	Forma prefija que significa mente	True
+QUELIO	Forma prefija que significa labio	True
+QUEIL	Forma prefija que significa labio	True
+QUERATO	Forma prefija que indica el componente inicial de las voces relacionadas con la córnea	True
+QUIMIO	Forma prefija que significa mezcla de jugos	True
+QUIRO	Forma prefija que significa mano	True
+RABDO	Forma prefija que significa bastón, además indica relación con el músculo estriado	True
+RADIO	Forma prefija que significa radio, rayo	True
+RE	Forma prefija que significa detrás, contrario, de nuevo	True
+REO	Forma prefija que significa corriente	True
+RINO	Forma prefija que significa nariz	True
+RODO	Forma prefija que significa rosa o de color rosa	True
+SACRO	Forma prefija que se refiere al hueso situado en las extremidades inferiores de la columna vertebral y todo lo referente a la región	True
+SALPINGO	Forma prefija que significa tubo, trompa	True
+SAPRO	Forma prefija que significa podrido	True
+SEX	Forma prefija que significa seis	True
+SIALO	Forma prefija que significa saliva	True
+SIDERO	Forma prefija que significa hierro	True
+SIM	Forma prefija que significa con, junto con	True
+SIN	Forma prefija que significa con, junto con	True
+SINISTRO	Forma prefija que significa izquierdo	True
+SOMA	Forma prefija que significa cuerpo	True
+TALO	Forma prefija que significa o indica relativa al talón	True
+TANATO	Forma prefija que significa muerte	True
+TAQUI	Forma prefija que significa rápido	True
+TENO	Forma prefija que significa tendón	True
+TERATO	Forma prefija que significa monstruo	True
+TERMO	Forma prefija que significa calor	True
+TIMO	Forma prefija que significa mente	True
+TOCO	Forma prefija que significa parto	True
+TOXI	Forma prefija que significa veneno	True
+TRICO	Forma prefija que significa cabello	True
+ULO	Forma prefija que significa encía	True
+ULTRA	Forma prefija que significa más allá	True
+UNI	Forma prefija que significa uno	True
+URANO	Forma prefija que significa cielo	True
+URO	Forma prefija que significa orina	True
+XANTO	Forma prefija que significa amarillo	True
+XENO	Forma prefija que significa extranjero, huésped, extraño	True
+XERO	Forma prefija que significa seco	True
+XILO	Forma prefija que significa madera	True
+YATRO	Forma prefija que significa médico	True
+ZOO	Forma prefija que significa animal	True
+ACEO	Forma sufija que significa o denota de la naturaleza o semejante a	False
+ACO	Forma sufija que significa pertenece a	False
+AGRA	Sufijo griego que se añade a varias raíces para indicar dolor intenso, especialmente gotoso	False
+AL	Forma sufija que significa pertenece a o características de	False
+ALGIA	Forma sufija que significa o denota una condición dolorosa	False
+ASA	Forma sufija que significa enzima	False
+BLASTO	Forma sufija que significa brote, nacimiento, germen	False
+BLENNO	Forma sufija que significa moco	False
+CECO	Forma sufija que significa ciego (parte del intestino grueso)	False
+CECOAL	Forma sufija que significa ciego (parte del intestino grueso)	False
+CENTESIS	Forma sufija que significa punzada	False
+CITO	Forma sufija que significa cavidad, se usa para denotar una célula	False
+CLASIS	Forma sufija que significa ruptura	False
+CLEISIS	Forma sufija que significa cierre	False
+DERMIS	Forma sufija que significa piel	False
+DINIA	Forma sufija que significa o denota una condición dolorosa	False
+ECTASIA	Forma sufija que significa dilatación, expansión, acortamiento	False
+ECTOMÍA	Forma sufija que significa excisión de	False
+ESTESIA	Forma sufija que denota sensación	False
+FAGIA	Forma sufija que significa comer	False
+FASIA	Forma sufija que significa hablar	False
+FILIA	Forma sufija que significa inclinación, amor	False
+FITO	Forma sufija que significa excrescencia, planta	False
+FOBIA	Forma sufija que significa temor morboso, obsesionante y angustioso	False
+FORIA	Forma sufija que significa dirección o tendencia de las líneas visuales	False
+FORO	Forma sufija que significa o indica relación con movimiento o expresa la idea de llevar o contener	False
+GAMIA	Forma sufija que significa o indica matrimonio, unión	False
+GÉNESIS	Forma sufija que significa relación con reproducción u origen	False
+GNOSIS	Forma sufija que significa conocimiento, percepción	False
+GRAFÍA	Forma sufija que significa descripción, inscripción	False
+IASIS	Forma sufija que significa proceso, estado resultante, particularmente morboso	False
+ICO	Forma sufija que significa o indica voces químicas que señalan los ácidos más oxigenados de los que puede formar un mismo elemento	False
+IDE	Forma sufija que significa una lesión cutánea específica	False
+IDO	Forma sufija que significa estado o condición	False
+ITIS	Forma sufija que significa inflamación	False
+LISIS	Forma sufija que significa disolución	False
+LITO	Forma sufija que significa piedra o cálculo	False
+LOGÍA	Forma sufija que significa estudio, tratado	False
+MALACIA	Forma sufija que significa reblandecimiento anormal	False
+MANÍA	Forma sufija que significa preocupación excesiva, tendencia o hábito anormal	False
+MELO	Forma sufija que significa miembro	False
+MELIA	Forma sufija que significa miembro	False
+OIDE	Forma sufija que significa semejanza	False
+OLO	Forma sufija que significa o expresa disminución	False
+OMA	Forma sufija que significa tumor o tumefacción	False
+OPÍA	Forma sufija que significa ojo o en relación con la visión	False
+OPSIA	Forma sufija que significa visión	False
+ORIO	Forma sufija que significa perteneciente o servidor de	False
+OSO	Forma sufija que significa tener, poseer	False
+OSA	Forma sufija que significa tener, poseer	False
+OSCOPÍA	Forma sufija que significa o indica visión	False
+OSIS	Forma sufija que significa o indica condición muchas veces morbosa	False
+OSTOMÍA	Forma sufija que significa o indica, drenaje, abertura	False
+PATÍA	Forma sufija que significa sufrimiento, enfermedad	False
+PENIA	Forma sufija que significa disminución, deficiente	False
+PEXIA	Forma sufija que significa fijación de	False
+PLASIA	Forma sufija que significa o indica neoformación natural	False
+PLEJÍA	Forma sufija que significa parálisis	False
+RAFIA	Forma sufija que significa o denota sutura de	False
+REA	Forma sufija que significa descarga o flujo	False
+REXIS	Forma sufija que significa ruptura	False
+RITMIA	Forma sufija que significa acción rítmica	False
+SPASMO	Forma sufija que significa o denota espasmo	False
+TOXIA	Forma sufija que significa arreglo, ordenamiento	False
+TAXIA	Forma sufija que significa arreglo, ordenamiento	False
+TERAPIA	Forma sufija que significa tratamiento	False
+TERMIA	Forma sufija que significa temperatura, calor	False
+TIMIA	Forma sufija que significa mente	False
+PTOSIS	Forma sufija que significa caída	False
+TROFIA	Forma sufija que significa nutrición	False
+URA	Forma sufija que significa acto, proceso, estado, rango	False
+URIA	Forma sufija que significa orina	False
+s	Forma sufija que significa plural	False
+<http://msalazar081858.blogspot.com/2013/02/terminologia-medica-sufijos-prefijos-y.html>
