@@ -4,7 +4,6 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.HashMap;
 import java.util.HashSet;
 
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
@@ -42,55 +41,35 @@ public class FromDir {
 		F = new FrequencyFilter(Ts, 1772474);
 	}
 	
-	public void writeSummaries(){
+	public void writeSummaries(String outFile){
 		BufferedWriter bw = null;
 		FileWriter fw = null;
 
 		try {
-
-			fw = new FileWriter("/Users/pokea/Documents/"
-					+ "Work/UofA/Current/MIS/AffixSimplification/"
-					+ "Code/subwordSpanish/debajoPalabra/Output.txt");
+			fw = new FileWriter(outFile);
 			bw = new BufferedWriter(fw);
-			
 			HashSet<String> kSet = new HashSet<String>(Ts.getMap("1").keySet());
+			
 			for (String idx : kSet){
 				String token = Ts.get(idx, "1");
-				// Get the Subword Summary
-				Sw.summarize(token);
-				
-				bw.write(idx + "\t" + token + "\n");
-				
-				//if (Ts.containsK(token, "3")){
-					//if (F.contains(token)){
-						//As.getSummary(token);
-						//System.out.println(
-						//		idx + "\t" +
-						//		token + "\t" + 
-						//		String.valueOf(F.getVal(token))
-						//		);
-					//}
-				//}			
+				// Get the Subword Summary			
+				if (Ts.containsK(token, "3")){
+					if (F.contains(token)){
+						String summary = Sw.summarize(token);
+						bw.write(idx + "\t" + token + "\t" + summary + "\n");
+					}
+				}			
 			}
-
 		} catch (IOException e) {
-
 			e.printStackTrace();
-
 		} finally {
-
 			try {
-
 				if (bw != null)
 					bw.close();
-
 				if (fw != null)
 					fw.close();
-
 			} catch (IOException ex) {
-
 				ex.printStackTrace();
-
 			}
 		}
 	}

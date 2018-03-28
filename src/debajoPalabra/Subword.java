@@ -17,6 +17,7 @@ public class Subword {
 	}
 	
 	public String summarize(String token){
+		String theString = "";
 		currentMap = new HashMap<String,String>();
 		String stripped = strip(token);
 		if (!stripped.equals(token)){
@@ -27,13 +28,13 @@ public class Subword {
 				stripped = stripped2;
 			}
 		}
-		System.out.println(token);
-		System.out.println(stripped);
+		theString += stripped + " ";
 		for (String k : currentMap.keySet()){
-			System.out.println(k);
+			theString += k.toLowerCase() + " ";
+			theString += currentMap.get(k) + " ";
 		}
-		System.out.println();
-		return "";
+		
+		return theString;
 	}
 	
 	private String strip(String token){
@@ -65,7 +66,7 @@ public class Subword {
 			if (startdx + enddx >= token.length() + 1){
 				stripped = "";
 			} else {
-			stripped = token;
+				stripped = token;
 			}
 		}
 		return stripped;

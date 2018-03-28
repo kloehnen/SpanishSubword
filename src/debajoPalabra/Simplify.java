@@ -1,6 +1,8 @@
 package debajoPalabra;
 
 import java.io.IOException;
+import java.util.Arrays;
+import java.util.List;
 import java.util.Properties;
 
 import edu.stanford.nlp.io.IOUtils;
@@ -15,17 +17,21 @@ public class Simplify {
 		props.load(IOUtils.readerFromString("StanfordCoreNLP-spanish.properties"));
 		props.setProperty("annotators", "tokenize, ssplit, pos");
 		StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
-	
-		FromDir wkDir = new FromDir("/Users/pokea/Documents/"
-				+ "Work/UofA/Current/MIS/AffixSimplification/"
-				+ "Code/subwordSpanish/Resources/Pilot",
-				 new StanfordCoreNLP(props),
-				new Indexer());
-		
-		//wkDir.filter();
-		wkDir.writeSummaries();
-		
-	System.out.println("Done!");
+		String dirName = "PM";
 
+		FromDir wkDir = new FromDir("/Users/pokea/Documents/"
+					+ "Work/UofA/Current/MIS/AffixSimplification/"
+					+ "Code/subwordSpanish/Resources/"
+					+ dirName,
+					new StanfordCoreNLP(props),
+					new Indexer());
+		
+		wkDir.filter();
+		wkDir.writeSummaries("/Users/pokea/Documents/"
+					+ "Work/UofA/Current/MIS/AffixSimplification/"
+					+ "Code/subwordSpanish/debajoPalabra/Output"
+					+ dirName + ".txt");
+		
+		 System.out.println("Done with " + dirName);
 	}
 }
